@@ -1,4 +1,14 @@
 Pac-Man
+
+=======
+
+This repository is upgraded so it could build a docker image and run with Docker.
+
+Install docker engine and ----->
+
+-----> Simply run: docker run -d -p 3000:3000 vadimde88/pacman2.0:latest <-----
+
+
 =======
 
 A historical tribute and accurate remake of the original Pac-Man arcade game
