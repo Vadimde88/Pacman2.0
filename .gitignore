@@ -1,8 +1,10 @@
-*~
-*.pyc
-.idea
-.next
 node_modules
-public
-pages
-styles
+npm-debug.log
+.DS_Store
+.git
+doc
+issues
+BACKLOG
+*.bak
+*.md
+*.log
